@@ -1,0 +1,5 @@
+productName,uniqueId,price,ingredients,allergens,dimensions,foodCategories,nutrition,size
+product1, 1,12,lettuce, none, 1, salad, 10, medium
+product2, 2,12,lettuce, none, 1, wrap, 10, medium
+product3, 3,12,lettuce, none, 1, salad, 10, medium
+product4, 4,12,lettuce, none, 1, wrap, 5, small
